@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-sidescrolltest-0595.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\sidescrolltest.cpp.obj"
+"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\sidescrolltestCharacter.cpp.obj"
+"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\sidescrolltestGameMode.cpp.obj"
+"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\Switch.cpp.obj"
+"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\sidescrolltest.init.gen.cpp.obj"
+"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\sidescrolltestCharacter.gen.cpp.obj"
+"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\sidescrolltestGameMode.gen.cpp.obj"
+"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\Switch.gen.cpp.obj"
+"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\Default.rc2.res"
+/OUT:"E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-0595.lib"
+/INCLUDE:IMPLEMENT_MODULE_sidescrolltest

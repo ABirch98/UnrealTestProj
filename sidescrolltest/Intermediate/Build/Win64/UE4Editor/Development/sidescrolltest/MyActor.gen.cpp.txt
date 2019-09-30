@@ -1,0 +1,11 @@
+E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\Definitions.sidescrolltest.h
+E:\GAMES\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\GAMES\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest/MyActor.h
+E:\GAMES\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+E:\GAMES\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\GAMES\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+E:\GAMES\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+E:\GAMES\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+E:\GAMES\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h
+E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Inc\sidescrolltest\MyActor.generated.h

@@ -1,0 +1,16 @@
+﻿  Parsing headers for sidescrolltestEditor
+    Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+LogCompile : error : Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+  Reflection code generated for sidescrolltestEditor in 5.6946889 seconds
+  Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 8 processes...
+    [1/5] RightSwitch.cpp
+    [2/5] RightSwitch.gen.cpp
+    [3/5] UE4Editor-sidescrolltest.lib
+       Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest.exp
+    [4/5] UE4Editor-sidescrolltest.dll
+       Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest.suppressed.exp
+    [5/5] sidescrolltestEditor.target
+  Total time in Parallel executor: 2.38 seconds
+  Total execution time: 8.75 seconds
+E:\PROGRAMS\Visual Studio2019\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""E:\GAMES\Epic Games\UE_4.22\Engine\Build\BatchFiles\Build.bat" sidescrolltestEditor Win64 Development -Project="E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" -WaitMutex -FromMsBuild" exited with code -1.
