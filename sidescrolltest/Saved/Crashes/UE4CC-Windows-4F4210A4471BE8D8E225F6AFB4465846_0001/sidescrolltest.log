@@ -1,0 +1,1423 @@
+﻿Log file open, 07/30/19 18:27:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: sidescrolltest
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.265531
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Skrem00 -epicuserid=943cafa3db844338978f4447f108729c -epiclocale=en-GB
+LogInit: Base Directory: E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.27.10:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.30-17.27.10:925][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.30-17.27.10:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.27.10:926][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.27.10:927][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:927][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.30-17.27.10:927][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.30-17.27.10:927][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:927][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.30-17.27.10:927][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:927][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.30-17.27.10:927][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.30-17.27.10:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.30-17.27.10:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.30-17.27.10:928][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.30-17.27.10:928][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.30-17.27.10:928][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.30-17.27.10:941][  0]LogHAL: Display: Platform has ~ 16 GB [17107013632 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.30-17.27.10:941][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.30-17.27.10:941][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.30-17.27.10:941][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:941][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.30-17.27.10:942][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.27.10:942][  0]LogInit: Computer: DESKTOP-2Q74NOL
+[2019.07.30-17.27.10:942][  0]LogInit: User: Adam
+[2019.07.30-17.27.10:942][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.30-17.27.10:942][  0]LogInit: High frequency timer resolution =3.515624 MHz
+[2019.07.30-17.27.10:942][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.30-17.27.10:942][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.30-17.27.10:942][  0]LogMemory: Process Physical Memory: 95.71 MB used, 95.71 MB peak
+[2019.07.30-17.27.10:942][  0]LogMemory: Process Virtual Memory: 90.63 MB used, 90.63 MB peak
+[2019.07.30-17.27.10:942][  0]LogMemory: Physical Memory: 7031.79 MB used,  9282.73 MB free, 16314.52 MB total
+[2019.07.30-17.27.10:943][  0]LogMemory: Virtual Memory: 4660.61 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.07.30-17.27.10:958][  0]LogInit: Using OS detected language (en-GB).
+[2019.07.30-17.27.10:958][  0]LogInit: Using OS detected locale (en-GB).
+[2019.07.30-17.27.10:959][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.07.30-17.27.11:108][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.30-17.27.11:138][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.30-17.27.11:138][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.30-17.27.11:364][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.30-17.27.11:364][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.30-17.27.11:422][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.07.30-17.27.11:422][  0]LogD3D11RHI:       6052/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.30-17.27.11:424][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.30-17.27.11:424][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.30-17.27.11:424][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.30-17.27.11:429][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.30-17.27.11:429][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.30-17.27.11:429][  0]LogWindows: EnumDisplayDevices:
+[2019.07.30-17.27.11:429][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.07.30-17.27.11:430][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.07.30-17.27.11:430][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.07.30-17.27.11:430][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.07.30-17.27.11:430][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.07.30-17.27.11:430][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.07.30-17.27.11:430][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.07.30-17.27.11:430][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.07.30-17.27.11:430][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.07.30-17.27.11:463][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.30-17.27.11:467][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.30-17.27.11:467][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.30-17.27.11:467][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.30-17.27.11:475][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.07.30-17.27.11:732][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.30-17.27.11:743][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.30-17.27.11:754][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.30-17.27.11:765][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.30-17.27.11:777][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.30-17.27.11:787][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.30-17.27.11:798][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.30-17.27.11:809][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.30-17.27.11:814][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.30-17.27.11:878][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.30-17.27.11:879][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.30-17.27.11:923][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.30-17.27.11:923][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.30-17.27.11:944][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.30-17.27.11:944][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.30-17.27.11:954][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.30-17.27.11:964][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.30-17.27.11:974][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.30-17.27.11:985][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.30-17.27.12:020][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.30-17.27.12:020][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.30-17.27.12:020][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.30-17.27.12:027][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.30-17.27.12:063][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../DOCUMENTS/Unreal Projects/sidescrolltest/Intermediate/Shaders/WorkingDirectory/14456/).
+[2019.07.30-17.27.12:063][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adam/AppData/Local/Temp/UnrealShaderWorkingDir/2255B6DD450832B9747ED29BE9E77FD3/'.
+[2019.07.30-17.27.12:064][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.30-17.27.12:064][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.30-17.27.12:064][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.30-17.27.12:536][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.30-17.27.12:591][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Adam/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.30-17.27.12:591][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adam/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.30-17.27.12:591][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../DOCUMENTS/Unreal Projects/sidescrolltest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.30-17.27.12:591][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.30-17.27.12:591][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../DOCUMENTS/Unreal Projects/sidescrolltest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.30-17.27.12:591][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.30-17.27.12:602][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.30-17.27.12:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.30-17.27.12:602][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.30-17.27.12:614][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.30-17.27.12:614][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.30-17.27.12:614][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.30-17.27.12:633][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.30-17.27.12:634][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.30-17.27.12:635][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.30-17.27.12:720][  0]LogAssetRegistry: FAssetRegistry took 0.0313 seconds to start up
+[2019.07.30-17.27.12:986][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.30-17.27.13:098][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.30-17.27.13:098][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.30-17.27.13:098][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.30-17.27.13:098][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.30-17.27.13:098][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.30-17.27.13:107][  0]LogNetVersion: sidescrolltest 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4080921515)
+[2019.07.30-17.27.13:468][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.039731 seconds
+[2019.07.30-17.27.13:473][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.30-17.27.13:473][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.30-17.27.13:473][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.30-17.27.14:260][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.30-17.27.14:273][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.30-17.27.17:511][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.017 s
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: 
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: Ensure condition failed: AttachmentRules.LocationRule == EAttachmentRule::KeepRelative && AttachmentRules.RotationRule == EAttachmentRule::KeepRelative && AttachmentRules.ScaleRule == EAttachmentRule::KeepRelative [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 1786]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: AttachToComponent when called from a constructor is only setting up attachment and will always be treated as KeepRelative. Consider calling SetupAttachment directly instead.
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: Stack: 
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9ff3bcd89 UE4Editor-Engine.dll!DispatchCheckVerify<bool,<lambda_2fa4c8014e6e2d59bee8e8ac7e5934f3> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:161]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9fe1f4fa1 UE4Editor-Engine.dll!USceneComponent::AttachToComponent() [d:\build\++ue4\sync\engine\source\runtime\engine\private\components\scenecomponent.cpp:1786]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9e23b5841 UE4Editor-sidescrolltest.dll!ASwitch::ASwitch() [E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\Switch.cpp:19]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa0181610f UE4Editor-CoreUObject.dll!UClass::CreateDefaultObject() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\class.cpp:3076]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa01a51056 UE4Editor-CoreUObject.dll!UObjectLoadAllCompiledInDefaultProperties() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\uobjectbase.cpp:793]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa01a3edef UE4Editor-CoreUObject.dll!ProcessNewlyLoadedUObjects() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\uobjectbase.cpp:869]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa0181a727 UE4Editor-CoreUObject.dll!TBaseStaticDelegateInstance<void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:813]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa16aa4a2b UE4Editor-Core.dll!TBaseMulticastDelegate<void>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:977]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa16c75cb5 UE4Editor-Core.dll!FModuleManager::LoadModuleWithFailureReason() [d:\build\++ue4\sync\engine\source\runtime\core\private\modules\modulemanager.cpp:530]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa406e8d67 UE4Editor-Projects.dll!FModuleDescriptor::LoadModulesForPhase() [d:\build\++ue4\sync\engine\source\runtime\projects\private\moduledescriptor.cpp:596]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa406e8ff7 UE4Editor-Projects.dll!FProjectManager::LoadModulesForProject() [d:\build\++ue4\sync\engine\source\runtime\projects\private\projectmanager.cpp:63]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fc7eb1 UE4Editor.exe!FEngineLoop::LoadStartupModules() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3135]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fcd671 UE4Editor.exe!FEngineLoop::PreInit() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:2536]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fc5377 UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:129]
+[2019.07.30-17.27.17:511][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fc55ca UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.07.30-17.27.17:512][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fd316c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]
+[2019.07.30-17.27.17:512][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fd5b8e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.07.30-17.27.17:512][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa54fe4034 KERNEL32.DLL!UnknownFunction []
+[2019.07.30-17.27.17:512][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa560d3691 ntdll.dll!UnknownFunction []
+[2019.07.30-17.27.17:512][  0]LogOutputDevice: Error: 
+[2019.07.30-17.27.17:513][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2019.07.30-17.27.18:078][  0]LogStats:                    SendNewReport -  0.565 s
+[2019.07.30-17.27.18:078][  0]LogStats:             FDebug::EnsureFailed -  3.584 s
+[2019.07.30-17.27.18:132][  0]SourceControl: Source control is disabled
+[2019.07.30-17.27.18:132][  0]SourceControl: Source control is disabled
+[2019.07.30-17.27.18:133][  0]SourceControl: Source control is disabled
+[2019.07.30-17.27.18:134][  0]SourceControl: Source control is disabled
+[2019.07.30-17.27.18:484][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.30-17.27.18:625][  0]LogOcInput: OculusInput pre-init called
+[2019.07.30-17.27.23:321][  0]LogEngine: Initializing Engine...
+[2019.07.30-17.27.23:322][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.30-17.27.23:323][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.30-17.27.23:536][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.30-17.27.23:548][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.30-17.27.23:619][  0]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-17.27.23:630][  0]LogInit: FAudioDevice initialized.
+[2019.07.30-17.27.23:630][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.30-17.27.23:767][  0]LogDerivedDataCache: Saved boot cache 0.14s 75MB C:/Users/Adam/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.30-17.27.23:776][  0]LogInit: Texture streaming: Enabled
+[2019.07.30-17.27.23:789][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.30-17.27.23:807][  0]LogInit: Transaction tracking system initialized
+[2019.07.30-17.27.23:827][  0]BlueprintLog: New page: Editor Load
+[2019.07.30-17.27.23:937][  0]LocalizationService: Localization service is disabled
+[2019.07.30-17.27.24:689][  0]LogFileCache: Scanning file cache for directory 'E:/DOCUMENTS/Unreal Projects/sidescrolltest/Content/' took 0.02s
+[2019.07.30-17.27.24:689][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.30-17.27.24:689][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.30-17.27.25:093][  0]SourceControl: Source control is disabled
+[2019.07.30-17.27.25:093][  0]Cmd: MAP LOAD FILE="../../../../../../DOCUMENTS/Unreal Projects/sidescrolltest/Content/SideScrollerCPP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.30-17.27.25:121][  0]LightingResults: New page: Lighting Build
+[2019.07.30-17.27.25:124][  0]MapCheck: New page: Map Check
+[2019.07.30-17.27.25:124][  0]LightingResults: New page: Lighting Build
+[2019.07.30-17.27.25:147][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.07.30-17.27.25:656][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.07.30-17.27.25:666][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.30-17.27.25:690][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.07.30-17.27.25:690][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.30-17.27.25:690][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2019.07.30-17.27.25:690][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.597
+[2019.07.30-17.27.25:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.27.25:898][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.27.25:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.27.25:915][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.27.25:937][  0]LogCollectionManager: Loaded 0 collections in 0.001178 seconds
+[2019.07.30-17.27.25:996][  0]LogFileCache: Scanning file cache for directory 'E:/DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Collections/' took 0.01s
+[2019.07.30-17.27.25:996][  0]LogFileCache: Scanning file cache for directory 'E:/DOCUMENTS/Unreal Projects/sidescrolltest/Content/Developers/Adam/Collections/' took 0.01s
+[2019.07.30-17.27.25:996][  0]LogFileCache: Scanning file cache for directory 'E:/DOCUMENTS/Unreal Projects/sidescrolltest/Content/Collections/' took 0.01s
+[2019.07.30-17.27.25:996][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.07.30-17.27.26:005][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2735 classes and 661 folders.
+[2019.07.30-17.27.26:045][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.30-17.27.26:077][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:149][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:153][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:158][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:254][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:279][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:300][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:320][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.27.26:792][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.07.30-17.27.26:810][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.07.30-17.27.26:862][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.30-17.27.26:864][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.30-17.27.26:904][  0]LogSlate: Took 0.019928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.30-17.27.27:082][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 9 NumSamples 1 (Frame:1).
+[2019.07.30-17.27.27:175][  0]LogSlate: Took 0.025915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.30-17.27.27:257][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.30-17.27.27:257][  0]LogLoad: (Engine Initialization) Total time: 18.30 seconds
+[2019.07.30-17.27.27:257][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.30-17.27.27:267][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.27.27:268][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.30-17.27.27:287][  0]LogAssetRegistry: Asset discovery search completed in 14.5893 seconds
+[2019.07.30-17.27.27:289][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.30-17.27.27:289][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
+[2019.07.30-17.27.27:290][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.07.30-17.27.32:198][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.27.32:654][562]Candidate modules for hot reload:
+[2019.07.30-17.27.32:654][562]  sidescrolltest
+[2019.07.30-17.27.32:654][562]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,5225 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-17.27.32:695][562]Warning: Starting HotReload took  0.4s.
+[2019.07.30-17.27.59:502][761]CompilerResultsLog: New page: Compilation - 30 Jul 2019 19:27:59
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Creating makefile for sidescrolltestEditor (ini files are newer than makefile)
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-17.27.59:503][761]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 19.7045454 seconds
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-17.27.59:503][761]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Attempting to retry...
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-17.27.59:503][761]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Attempting to retry...
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-17.27.59:503][761]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.07.30-17.27.59:503][761]CompilerResultsLog:   [1/3] UE4Editor-sidescrolltest-5225.lib
+[2019.07.30-17.27.59:503][761]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-5225.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-5225.exp
+[2019.07.30-17.27.59:503][761]CompilerResultsLog:   [2/3] UE4Editor-sidescrolltest-5225.dll
+[2019.07.30-17.27.59:503][761]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-5225.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-5225.suppressed.exp
+[2019.07.30-17.27.59:503][761]CompilerResultsLog:   [3/3] sidescrolltestEditor.target
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Total time in Parallel executor: 2.06 seconds
+[2019.07.30-17.27.59:503][761]CompilerResultsLog: Total execution time: 26.62 seconds
+[2019.07.30-17.27.59:503][761]LogMainFrame: MainFrame: Module compiling took 26.852 seconds
+[2019.07.30-17.27.59:523][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.07.30-17.27.59:543][761]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-17.27.59:721][761]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2019.07.30-17.27.59:724][761]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.07.30-17.27.59:838][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.07.30-17.27.59:848][761]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-17.27.59:865][761]Display: HotReload took 27.6s.
+[2019.07.30-17.28.14:067][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.07.30-17.28.14:170][439]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.07.30-17.29.07:403][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.29.07:524][845]Candidate modules for hot reload:
+[2019.07.30-17.29.07:524][845]  sidescrolltest
+[2019.07.30-17.29.07:524][845]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,8574 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-17.29.07:546][845]Warning: Starting HotReload took  0.1s.
+[2019.07.30-17.29.24:938][828]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: New page: Compilation - 30 Jul 2019 19:29:36
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-17.29.36:629][188]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 21.058934 seconds
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-17.29.36:629][188]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Attempting to retry...
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-17.29.36:629][188]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Attempting to retry...
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-17.29.36:629][188]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.07.30-17.29.36:629][188]CompilerResultsLog:   [1/4] sidescrolltestCharacter.cpp
+[2019.07.30-17.29.36:629][188]CompilerResultsLog:   [2/4] UE4Editor-sidescrolltest-8574.lib
+[2019.07.30-17.29.36:629][188]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8574.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8574.exp
+[2019.07.30-17.29.36:629][188]CompilerResultsLog:   [3/4] UE4Editor-sidescrolltest-8574.dll
+[2019.07.30-17.29.36:629][188]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8574.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8574.suppressed.exp
+[2019.07.30-17.29.36:629][188]CompilerResultsLog:   [4/4] sidescrolltestEditor.target
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Total time in Parallel executor: 3.90 seconds
+[2019.07.30-17.29.36:629][188]CompilerResultsLog: Total execution time: 28.99 seconds
+[2019.07.30-17.29.36:629][188]LogMainFrame: MainFrame: Module compiling took 29.107 seconds
+[2019.07.30-17.29.36:650][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.07.30-17.29.36:670][188]LogHotReload: Re-instancing sidescrolltestCharacter after hot-reload.
+[2019.07.30-17.29.36:974][188]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-17.29.37:036][188]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2019.07.30-17.29.37:037][188]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.07.30-17.29.37:095][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.07.30-17.29.37:106][188]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-17.29.37:106][188]Display: HotReload took 29.6s.
+[2019.07.30-17.29.43:336][891]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.30-17.29.53:038][ 35]Cmd: TRANSACTION UNDO
+[2019.07.30-17.29.53:038][ 35]LogEditorTransaction: Undo Edit Capsule Radius
+[2019.07.30-17.37.27:148][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.07.30-17.37.27:148][464]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap' took 0.020
+[2019.07.30-17.47.27:564][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.07.30-17.47.27:564][391]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap' took 0.020
+[2019.07.30-17.51.35:032][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.51.35:492][978]Candidate modules for hot reload:
+[2019.07.30-17.51.35:492][978]  sidescrolltest
+[2019.07.30-17.51.35:493][978]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,1224 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-17.51.35:514][978]Warning: Starting HotReload took  0.4s.
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: New page: Compilation - 30 Jul 2019 19:51:57
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Creating makefile for sidescrolltestEditor (ini files are newer than makefile)
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-17.51.57:686][712]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 15.7332271 seconds
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-17.51.57:686][712]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Attempting to retry...
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-17.51.57:686][712]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Attempting to retry...
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-17.51.57:686][712]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.07.30-17.51.57:686][712]CompilerResultsLog:   [1/3] UE4Editor-sidescrolltest-1224.lib
+[2019.07.30-17.51.57:686][712]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-1224.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-1224.exp
+[2019.07.30-17.51.57:686][712]CompilerResultsLog:   [2/3] UE4Editor-sidescrolltest-1224.dll
+[2019.07.30-17.51.57:686][712]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-1224.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-1224.suppressed.exp
+[2019.07.30-17.51.57:686][712]CompilerResultsLog:   [3/3] sidescrolltestEditor.target
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Total time in Parallel executor: 1.21 seconds
+[2019.07.30-17.51.57:686][712]CompilerResultsLog: Total execution time: 21.98 seconds
+[2019.07.30-17.51.57:686][712]LogMainFrame: MainFrame: Module compiling took 22.196 seconds
+[2019.07.30-17.51.57:707][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.07.30-17.51.57:729][712]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-17.51.57:792][712]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2019.07.30-17.51.57:795][712]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.07.30-17.51.57:836][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.07.30-17.51.57:847][712]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-17.51.57:847][712]Display: HotReload took 22.8s.
+[2019.07.30-17.54.44:466][191]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-17.54.44:481][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-17.54.44:481][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-17.54.44:482][191]PIE: New page: PIE session: SideScrollerExampleMap (30 Jul 2019 19:54:44)
+[2019.07.30-17.54.44:494][191]LogPlayLevel: Creating play world package: /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.07.30-17.54.44:522][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028081s)
+[2019.07.30-17.54.44:523][191]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.07.30-17.54.44:523][191]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.07.30-17.54.44:523][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.029250s)
+[2019.07.30-17.54.44:550][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.07.30-17.54.44:575][191]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-17.54.44:582][191]LogInit: FAudioDevice initialized.
+[2019.07.30-17.54.44:625][191]LogLoad: Game class is 'sidescrolltestGameMode'
+[2019.07.30-17.54.44:627][191]LogWorld: Bringing World /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.07.30-18.54.44
+[2019.07.30-17.54.44:664][191]LogWorld: Bringing up level for play took: 0.036900
+[2019.07.30-17.54.44:712][191]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.07.30-17.54.44:712][191]PIE: Play in editor start time for /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap 0.605
+[2019.07.30-17.54.44:713][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-17.55.21:475][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-17.55.21:475][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.55.21:501][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-17.55.21:501][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-17.55.21:527][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.55.21:529][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.07.30-17.55.21:580][594]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.07.30-17.58.04:859][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.07.30-17.58.05:191][471]LogSavePackage: Moving '../../../../../../DOCUMENTS/Unreal Projects/sidescrolltest/Saved/SideScrollerExampleMap_Auto13C60780240F463BD197D078D1AF2E78F.tmp' to '../../../../../../DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Autosaves/Game/SideScrollerCPP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2019.07.30-17.58.05:213][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap' took 0.375
+[2019.07.30-17.58.05:213][471]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.375
+[2019.07.30-18.17.11:561][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.17.11:646][ 78]Candidate modules for hot reload:
+[2019.07.30-18.17.11:646][ 78]  sidescrolltest
+[2019.07.30-18.17.11:646][ 78]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,2903 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.17.11:663][ 78]Warning: Starting HotReload took  0.0s.
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:17:46
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: Creating makefile for sidescrolltestEditor (ini files are newer than makefile)
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 20.2885803 seconds
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.17.46:218][203]CompilerResultsLog: Building 9 actions with 8 processes...
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:   [1/9] sidescrolltest.init.gen.cpp
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:   [2/9] Switch.cpp
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:    E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\Switch.cpp(31)  : error C4706: assignment within conditional expression
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:    E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\Switch.cpp(42)  : error C4706: assignment within conditional expression
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:   [3/9] Switch.gen.cpp
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:   [4/9] sidescrolltestGameMode.cpp
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:   [5/9] sidescrolltestCharacter.gen.cpp
+[2019.07.30-18.17.46:218][203]CompilerResultsLog:   [6/9] sidescrolltestCharacter.cpp
+[2019.07.30-18.17.46:218][203]LogMainFrame: MainFrame: Module compiling took 34.576 seconds
+[2019.07.30-18.17.46:218][203]Warning: HotReload failed, recompile failed
+[2019.07.30-18.18.05:365][199]LogSlate: Window 'Message Log' being destroyed
+[2019.07.30-18.18.05:369][199]LogSlate: Window 'Message Log' being destroyed
+[2019.07.30-18.18.06:753][364]Candidate modules for hot reload:
+[2019.07.30-18.18.06:753][364]  sidescrolltest
+[2019.07.30-18.18.06:753][364]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,7411 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.18.06:844][364]Warning: Starting HotReload took  0.1s.
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:18:20
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.18.20:088][945]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 7.0621582 seconds
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.18.20:088][945]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.18.20:088][945]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.18.20:088][945]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.07.30-18.18.20:088][945]CompilerResultsLog:   [1/4] Switch.cpp
+[2019.07.30-18.18.20:088][945]CompilerResultsLog:   [2/4] UE4Editor-sidescrolltest-7411.lib
+[2019.07.30-18.18.20:088][945]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-7411.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-7411.exp
+[2019.07.30-18.18.20:088][945]CompilerResultsLog:   [3/4] UE4Editor-sidescrolltest-7411.dll
+[2019.07.30-18.18.20:088][945]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-7411.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-7411.suppressed.exp
+[2019.07.30-18.18.20:088][945]CompilerResultsLog:   [4/4] sidescrolltestEditor.target
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Total time in Parallel executor: 2.89 seconds
+[2019.07.30-18.18.20:088][945]CompilerResultsLog: Total execution time: 13.15 seconds
+[2019.07.30-18.18.20:088][945]LogMainFrame: MainFrame: Module compiling took 13.339 seconds
+[2019.07.30-18.18.20:110][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.07.30-18.18.20:203][945]LogClass: Could not find existing class Switch in package /Script/sidescrolltest for HotReload, assuming new class
+[2019.07.30-18.18.20:203][945]LogClass: Function OnPlayerEnter is new.
+[2019.07.30-18.18.20:203][945]LogClass: Function OnPlayerExit is new.
+[2019.07.30-18.18.20:209][945]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-18.18.20:272][945]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2019.07.30-18.18.20:275][945]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.07.30-18.18.20:316][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.07.30-18.18.20:327][945]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-18.18.20:327][945]Display: HotReload took 13.6s.
+[2019.07.30-18.18.25:348][534]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-18.18.25:361][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.18.25:361][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-18.18.25:361][534]PIE: New page: PIE session: SideScrollerExampleMap (30 Jul 2019 20:18:25)
+[2019.07.30-18.18.25:361][534]LogPlayLevel: Creating play world package: /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.07.30-18.18.25:379][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017453s)
+[2019.07.30-18.18.25:380][534]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.07.30-18.18.25:380][534]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.07.30-18.18.25:380][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.018371s)
+[2019.07.30-18.18.25:404][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.07.30-18.18.25:425][534]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-18.18.25:433][534]LogInit: FAudioDevice initialized.
+[2019.07.30-18.18.25:460][534]LogLoad: Game class is 'sidescrolltestGameMode'
+[2019.07.30-18.18.25:462][534]LogWorld: Bringing World /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.07.30-19.18.25
+[2019.07.30-18.18.25:462][534]LogWorld: Bringing up level for play took: 0.001613
+[2019.07.30-18.18.25:475][534]PIE: Play in editor start time for /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap -0.633
+[2019.07.30-18.18.25:475][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.18.38:575][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.18.38:575][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-18.18.38:601][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-18.18.38:602][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.18.38:623][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-18.18.38:626][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.07.30-18.18.38:674][108]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.07.30-18.21.06:247][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.21.06:315][185]Candidate modules for hot reload:
+[2019.07.30-18.21.06:315][185]  sidescrolltest
+[2019.07.30-18.21.06:315][185]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,8476 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.21.06:333][185]Warning: Starting HotReload took  0.0s.
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:21:22
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Creating makefile for sidescrolltestEditor (ini files are newer than makefile)
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 6.6766975 seconds
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Building 9 actions with 8 processes...
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:   [1/9] sidescrolltest.init.gen.cpp
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:   [2/9] Switch.cpp
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:   [3/9] sidescrolltestGameMode.cpp
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:   [4/9] sidescrolltestCharacter.gen.cpp
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:   [5/9] Switch.gen.cpp
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:   [6/9] sidescrolltestCharacter.cpp
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:   [7/9] UE4Editor-sidescrolltest-8476.lib
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8476.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8476.exp
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:   [8/9] UE4Editor-sidescrolltest-8476.dll
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8476.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8476.suppressed.exp
+[2019.07.30-18.21.22:890][910]CompilerResultsLog:   [9/9] sidescrolltestEditor.target
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Total time in Parallel executor: 5.54 seconds
+[2019.07.30-18.21.22:890][910]CompilerResultsLog: Total execution time: 16.38 seconds
+[2019.07.30-18.21.22:890][910]LogMainFrame: MainFrame: Module compiling took 16.578 seconds
+[2019.07.30-18.21.22:911][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.07.30-18.21.22:930][910]LogClass: Could not find existing class Switch in package /Script/sidescrolltest for HotReload, assuming new class
+[2019.07.30-18.21.22:930][910]LogClass: Function OnPlayerEnter is new.
+[2019.07.30-18.21.22:930][910]LogClass: Function OnPlayerExit is new.
+[2019.07.30-18.21.22:937][910]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-18.21.22:999][910]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2019.07.30-18.21.23:002][910]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.07.30-18.21.23:048][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.07.30-18.21.23:060][910]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-18.21.23:060][910]Display: HotReload took 16.8s.
+[2019.07.30-18.21.41:146][449]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-18.21.41:159][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.21.41:159][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-18.21.41:159][449]PIE: New page: PIE session: SideScrollerExampleMap (30 Jul 2019 20:21:41)
+[2019.07.30-18.21.41:159][449]LogPlayLevel: Creating play world package: /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.07.30-18.21.41:171][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011788s)
+[2019.07.30-18.21.41:171][449]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.07.30-18.21.41:172][449]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2019.07.30-18.21.41:172][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012801s)
+[2019.07.30-18.21.41:193][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.07.30-18.21.41:213][449]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-18.21.41:220][449]LogInit: FAudioDevice initialized.
+[2019.07.30-18.21.41:246][449]LogLoad: Game class is 'sidescrolltestGameMode'
+[2019.07.30-18.21.41:248][449]LogWorld: Bringing World /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.07.30-19.21.41
+[2019.07.30-18.21.41:248][449]LogWorld: Bringing up level for play took: 0.001529
+[2019.07.30-18.21.41:261][449]PIE: Play in editor start time for /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap -0.847
+[2019.07.30-18.21.41:261][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.21.58:737][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.21.58:737][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-18.21.58:764][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-18.21.58:765][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.21.58:788][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-18.21.58:790][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.07.30-18.21.58:838][546]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.07.30-18.22.38:440][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.22.38:507][ 28]Candidate modules for hot reload:
+[2019.07.30-18.22.38:507][ 28]  sidescrolltest
+[2019.07.30-18.22.38:507][ 28]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,6408 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.22.38:543][ 28]Warning: Starting HotReload took  0.0s.
+[2019.07.30-18.22.52:788][724]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:22:52
+[2019.07.30-18.22.52:788][724]CompilerResultsLog: Creating makefile for sidescrolltestEditor (ini files are newer than makefile)
+[2019.07.30-18.22.52:788][724]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.22.52:788][724]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.22.52:788][724]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.22.52:788][724]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 7.0414279 seconds
+[2019.07.30-18.22.52:788][724]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.22.52:788][724]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.22.52:788][724]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.22.52:788][724]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.22.52:788][724]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.22.52:788][724]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.22.52:789][724]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.22.52:789][724]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.22.52:789][724]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.22.52:789][724]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.22.52:789][724]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.07.30-18.22.52:789][724]CompilerResultsLog:   [1/4] Switch.cpp
+[2019.07.30-18.22.52:789][724]CompilerResultsLog:   [2/4] UE4Editor-sidescrolltest-6408.lib
+[2019.07.30-18.22.52:789][724]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-6408.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-6408.exp
+[2019.07.30-18.22.52:789][724]CompilerResultsLog:   [3/4] UE4Editor-sidescrolltest-6408.dll
+[2019.07.30-18.22.52:789][724]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-6408.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-6408.suppressed.exp
+[2019.07.30-18.22.52:789][724]CompilerResultsLog:   [4/4] sidescrolltestEditor.target
+[2019.07.30-18.22.52:789][724]CompilerResultsLog: Total time in Parallel executor: 2.86 seconds
+[2019.07.30-18.22.52:789][724]CompilerResultsLog: Total execution time: 14.16 seconds
+[2019.07.30-18.22.52:789][724]LogMainFrame: MainFrame: Module compiling took 14.285 seconds
+[2019.07.30-18.22.52:810][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.30-18.22.52:833][724]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-18.22.52:893][724]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2019.07.30-18.22.52:896][724]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.07.30-18.22.52:943][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.07.30-18.22.52:955][724]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-18.22.52:955][724]Display: HotReload took 14.5s.
+[2019.07.30-18.23.04:717][117]LogEditorViewport: Clicking on Actor (LMB): Switch (Switch1)
+[2019.07.30-18.23.05:411][187]LogEditorViewport: Clicking on Actor (LMB): Switch (Switch1)
+[2019.07.30-18.23.05:876][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar1)
+[2019.07.30-18.23.05:981][244]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.07.30-18.23.06:600][316]LogEditorViewport: Clicking on Actor (LMB): Switch (Switch1)
+[2019.07.30-18.23.10:316][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.23.28:023][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.23.30:032][114]Cmd: TRANSACTION UNDO
+[2019.07.30-18.23.30:032][114]LogEditorTransaction: Undo Set Vector Property
+[2019.07.30-18.23.31:642][302]Cmd: TRANSACTION UNDO
+[2019.07.30-18.23.31:642][302]LogEditorTransaction: Undo Set Vector Property
+[2019.07.30-18.23.47:460][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.23.54:187][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.24.02:067][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.24.18:098][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.24.30:403][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge6)
+[2019.07.30-18.24.36:199][958]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.07.30-18.24.36:738][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.07.30-18.26.08:278][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.26.09:917][637]Candidate modules for hot reload:
+[2019.07.30-18.26.09:917][637]  sidescrolltest
+[2019.07.30-18.26.09:917][637]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,7735 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.26.09:938][637]Warning: Starting HotReload took  0.0s.
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:26:23
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.26.23:435][229]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 7.0778388 seconds
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.26.23:435][229]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.26.23:435][229]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.26.23:435][229]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.26.23:435][229]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.07.30-18.26.23:435][229]CompilerResultsLog:   [1/4] Switch.cpp
+[2019.07.30-18.26.23:435][229]CompilerResultsLog:   [2/4] UE4Editor-sidescrolltest-7735.lib
+[2019.07.30-18.26.23:435][229]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-7735.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-7735.exp
+[2019.07.30-18.26.23:436][229]CompilerResultsLog:   [3/4] UE4Editor-sidescrolltest-7735.dll
+[2019.07.30-18.26.23:436][229]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-7735.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-7735.suppressed.exp
+[2019.07.30-18.26.23:436][229]CompilerResultsLog:   [4/4] sidescrolltestEditor.target
+[2019.07.30-18.26.23:436][229]CompilerResultsLog: Total time in Parallel executor: 3.09 seconds
+[2019.07.30-18.26.23:436][229]CompilerResultsLog: Total execution time: 13.41 seconds
+[2019.07.30-18.26.23:436][229]LogMainFrame: MainFrame: Module compiling took 13.523 seconds
+[2019.07.30-18.26.23:457][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.07.30-18.26.23:478][229]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-18.26.23:538][229]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2019.07.30-18.26.23:540][229]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.07.30-18.26.23:591][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.07.30-18.26.23:605][229]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-18.26.23:605][229]Display: HotReload took 13.7s.
+[2019.07.30-18.26.25:472][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.26.25:530][440]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-18.26.25:543][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.26.25:543][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-18.26.25:543][440]PIE: New page: PIE session: SideScrollerExampleMap (30 Jul 2019 20:26:25)
+[2019.07.30-18.26.25:543][440]LogPlayLevel: Creating play world package: /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.07.30-18.26.25:557][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013442s)
+[2019.07.30-18.26.25:557][440]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.07.30-18.26.25:558][440]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2019.07.30-18.26.25:558][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014746s)
+[2019.07.30-18.26.25:579][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.07.30-18.26.25:599][440]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-18.26.25:611][440]LogInit: FAudioDevice initialized.
+[2019.07.30-18.26.25:640][440]LogLoad: Game class is 'sidescrolltestGameMode'
+[2019.07.30-18.26.25:642][440]LogWorld: Bringing World /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.07.30-19.26.25
+[2019.07.30-18.26.25:642][440]LogWorld: Bringing up level for play took: 0.001691
+[2019.07.30-18.26.25:655][440]PIE: Play in editor start time for /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap -0.453
+[2019.07.30-18.26.25:655][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.26.33:047][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.26.33:047][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-18.26.33:072][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-18.26.33:073][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.26.33:097][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-18.26.33:099][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.07.30-18.26.33:147][330]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.07.30-18.29.30:314][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.07.30-18.29.30:948][341]LogSavePackage: Moving '../../../../../../DOCUMENTS/Unreal Projects/sidescrolltest/Saved/SideScrollerExampleMap_Auto2A929A1F24B7413A99A28C8B21F31E522.tmp' to '../../../../../../DOCUMENTS/Unreal Projects/sidescrolltest/Saved/Autosaves/Game/SideScrollerCPP/Maps/SideScrollerExampleMap_Auto2.umap'
+[2019.07.30-18.29.30:955][341]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap' took 0.662
+[2019.07.30-18.29.30:955][341]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.662
+[2019.07.30-18.33.11:386][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.33.11:494][326]Candidate modules for hot reload:
+[2019.07.30-18.33.11:494][326]  sidescrolltest
+[2019.07.30-18.33.11:495][326]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,1787 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.33.11:519][326]Warning: Starting HotReload took  0.1s.
+[2019.07.30-18.33.22:510][620]Running E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" -game -rocket -progress
+[2019.07.30-18.33.22:729][620]ERROR: A conflicting instance of UnrealBuildTool is already running.
+[2019.07.30-18.33.25:350][620]LogSlate: Window 'Refresh Project' being destroyed
+[2019.07.30-18.33.29:539][108]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:33:29
+[2019.07.30-18.33.29:539][108]CompilerResultsLog: Creating makefile for sidescrolltestEditor (ini files are newer than makefile)
+[2019.07.30-18.33.29:539][108]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 7.0733986 seconds
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: Building 9 actions with 8 processes...
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:   [1/9] sidescrolltest.init.gen.cpp
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:   [2/9] Switch.cpp
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:   [3/9] Switch.gen.cpp
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:   [4/9] sidescrolltestCharacter.gen.cpp
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:   [5/9] sidescrolltestGameMode.cpp
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:   [6/9] sidescrolltestCharacter.cpp
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:   [7/9] UE4Editor-sidescrolltest-1787.lib
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-1787.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-1787.exp
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:   [8/9] UE4Editor-sidescrolltest-1787.dll
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-1787.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-1787.suppressed.exp
+[2019.07.30-18.33.29:540][108]CompilerResultsLog:   [9/9] sidescrolltestEditor.target
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: Total time in Parallel executor: 6.57 seconds
+[2019.07.30-18.33.29:540][108]CompilerResultsLog: Total execution time: 17.93 seconds
+[2019.07.30-18.33.29:540][108]LogMainFrame: MainFrame: Module compiling took 18.049 seconds
+[2019.07.30-18.33.29:565][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.07.30-18.33.29:606][108]LogClass: Could not find existing class Switch in package /Script/sidescrolltest for HotReload, assuming new class
+[2019.07.30-18.33.29:610][108]LogHotReload: Re-instancing sidescrolltestCharacter after hot-reload.
+[2019.07.30-18.33.29:738][108]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-18.33.29:798][108]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2019.07.30-18.33.29:800][108]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.07.30-18.33.29:844][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.07.30-18.33.29:857][108]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-18.33.29:858][108]Display: HotReload took 18.4s.
+[2019.07.30-18.33.30:800][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-18.33.31:536][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.33.31:595][296]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-18.33.31:607][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.33.31:608][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-18.33.31:608][296]PIE: New page: PIE session: SideScrollerExampleMap (30 Jul 2019 20:33:31)
+[2019.07.30-18.33.31:608][296]LogPlayLevel: Creating play world package: /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.07.30-18.33.31:620][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012025s)
+[2019.07.30-18.33.31:621][296]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.07.30-18.33.31:621][296]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.07.30-18.33.31:621][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013109s)
+[2019.07.30-18.33.31:642][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.07.30-18.33.31:662][296]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-18.33.31:670][296]LogInit: FAudioDevice initialized.
+[2019.07.30-18.33.31:695][296]LogLoad: Game class is 'sidescrolltestGameMode'
+[2019.07.30-18.33.31:697][296]LogWorld: Bringing World /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.07.30-19.33.31
+[2019.07.30-18.33.31:698][296]LogWorld: Bringing up level for play took: 0.001869
+[2019.07.30-18.33.31:710][296]PIE: Play in editor start time for /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap -0.397
+[2019.07.30-18.33.31:710][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.33.39:745][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.33.39:745][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-18.33.39:775][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-18.33.39:775][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.33.39:797][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-18.33.39:800][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.07.30-18.33.39:846][263]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.07.30-18.33.40:663][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.33.42:593][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.33.44:163][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.33.45:963][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.33.45:996][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.33.50:153][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.33.51:964][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.33.53:959][693]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.07.30-18.34.02:762][715]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.30-18.34.02:766][715]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.30-18.34.21:822][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.34.23:035][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.34.24:088][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.34.24:888][892]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.07.30-18.34.41:471][868]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.30-18.34.41:474][868]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.30-18.35.29:139][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.35.29:205][505]Candidate modules for hot reload:
+[2019.07.30-18.35.29:205][505]  sidescrolltest
+[2019.07.30-18.35.29:205][505]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,3938 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.35.29:221][505]Warning: Starting HotReload took  0.0s.
+[2019.07.30-18.35.41:718][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.35.44:289][293]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:35:44
+[2019.07.30-18.35.44:289][293]CompilerResultsLog: Creating makefile for sidescrolltestEditor (ini files are newer than makefile)
+[2019.07.30-18.35.44:289][293]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.35.44:290][293]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 7.1464129 seconds
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.35.44:290][293]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.35.44:290][293]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.35.44:290][293]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.07.30-18.35.44:290][293]CompilerResultsLog:   [1/4] sidescrolltestCharacter.cpp
+[2019.07.30-18.35.44:290][293]CompilerResultsLog:   [2/4] UE4Editor-sidescrolltest-3938.lib
+[2019.07.30-18.35.44:290][293]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-3938.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-3938.exp
+[2019.07.30-18.35.44:290][293]CompilerResultsLog:   [3/4] UE4Editor-sidescrolltest-3938.dll
+[2019.07.30-18.35.44:290][293]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-3938.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-3938.suppressed.exp
+[2019.07.30-18.35.44:290][293]CompilerResultsLog:   [4/4] sidescrolltestEditor.target
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: Total time in Parallel executor: 3.59 seconds
+[2019.07.30-18.35.44:290][293]CompilerResultsLog: Total execution time: 14.97 seconds
+[2019.07.30-18.35.44:290][293]LogMainFrame: MainFrame: Module compiling took 15.087 seconds
+[2019.07.30-18.35.44:314][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.07.30-18.35.44:335][293]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-18.35.44:397][293]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2019.07.30-18.35.44:399][293]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.07.30-18.35.44:440][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.07.30-18.35.44:452][293]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-18.35.44:452][293]Display: HotReload took 15.3s.
+[2019.07.30-18.36.59:696][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.37.01:540][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-18.37.01:543][540]Running E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" -game -rocket -progress
+[2019.07.30-18.37.01:868][540]Discovering modules, targets and source code for project...
+[2019.07.30-18.37.04:485][540]Binding IntelliSense data...
+[2019.07.30-18.37.07:506][540]Binding IntelliSense data... 100%
+[2019.07.30-18.37.07:607][540]Writing project files...
+[2019.07.30-18.37.11:937][540]Writing project files... 100%
+[2019.07.30-18.37.48:006][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.37.48:128][965]Candidate modules for hot reload:
+[2019.07.30-18.37.48:128][965]  sidescrolltest
+[2019.07.30-18.37.48:128][965]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,2020 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.37.48:150][965]Warning: Starting HotReload took  0.1s.
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:38:06
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Creating makefile for sidescrolltestEditor (no existing makefile)
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.38.06:160][785]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 8.126726 seconds
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.38.06:160][785]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.38.06:160][785]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.38.06:160][785]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.07.30-18.38.06:160][785]CompilerResultsLog:   [1/4] sidescrolltestCharacter.cpp
+[2019.07.30-18.38.06:160][785]CompilerResultsLog:   [2/4] UE4Editor-sidescrolltest-2020.lib
+[2019.07.30-18.38.06:160][785]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-2020.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-2020.exp
+[2019.07.30-18.38.06:160][785]CompilerResultsLog:   [3/4] UE4Editor-sidescrolltest-2020.dll
+[2019.07.30-18.38.06:160][785]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-2020.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-2020.suppressed.exp
+[2019.07.30-18.38.06:160][785]CompilerResultsLog:   [4/4] sidescrolltestEditor.target
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Total time in Parallel executor: 4.41 seconds
+[2019.07.30-18.38.06:160][785]CompilerResultsLog: Total execution time: 17.90 seconds
+[2019.07.30-18.38.06:160][785]LogMainFrame: MainFrame: Module compiling took 18.035 seconds
+[2019.07.30-18.38.06:188][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.07.30-18.38.06:227][785]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-18.38.06:297][785]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2019.07.30-18.38.06:300][785]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.07.30-18.38.06:347][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.07.30-18.38.06:362][785]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-18.38.06:362][785]Display: HotReload took 18.3s.
+[2019.07.30-18.38.08:376][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-18.38.09:128][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-18.38.09:614][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-18.38.13:904][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.39.09:711][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.39.09:786][569]Candidate modules for hot reload:
+[2019.07.30-18.39.09:786][569]  sidescrolltest
+[2019.07.30-18.39.09:786][569]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,5005 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.39.09:807][569]Warning: Starting HotReload took  0.0s.
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:39:27
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 7.2506735 seconds
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Building 9 actions with 8 processes...
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:   [1/9] sidescrolltest.init.gen.cpp
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:   [2/9] Switch.cpp
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:   [3/9] sidescrolltestGameMode.cpp
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:   [4/9] sidescrolltestCharacter.gen.cpp
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:   [5/9] Switch.gen.cpp
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:   [6/9] sidescrolltestCharacter.cpp
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:   [7/9] UE4Editor-sidescrolltest-5005.lib
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-5005.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-5005.exp
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:   [8/9] UE4Editor-sidescrolltest-5005.dll
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-5005.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-5005.suppressed.exp
+[2019.07.30-18.39.27:330][430]CompilerResultsLog:   [9/9] sidescrolltestEditor.target
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Total time in Parallel executor: 6.76 seconds
+[2019.07.30-18.39.27:330][430]CompilerResultsLog: Total execution time: 17.36 seconds
+[2019.07.30-18.39.27:330][430]LogMainFrame: MainFrame: Module compiling took 17.547 seconds
+[2019.07.30-18.39.27:352][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.07.30-18.39.27:365][430]LogClass: Could not find existing class sidescrolltestCharacter in package /Script/sidescrolltest for HotReload, assuming new class
+[2019.07.30-18.39.27:372][430]LogHotReload: Re-instancing sidescrolltestCharacter after hot-reload.
+[2019.07.30-18.39.27:599][430]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-18.39.27:660][430]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2019.07.30-18.39.27:662][430]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.07.30-18.39.27:704][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.07.30-18.39.27:715][430]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-18.39.27:716][430]Display: HotReload took 17.9s.
+[2019.07.30-18.39.49:936][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.39.49:996][572]Candidate modules for hot reload:
+[2019.07.30-18.39.49:996][572]  sidescrolltest
+[2019.07.30-18.39.49:996][572]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,7556 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.39.50:008][572]Warning: Starting HotReload took  0.0s.
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:40:03
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 7.4299723 seconds
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.40.03:793][ 89]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog: Building 9 actions with 8 processes...
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:   [1/9] sidescrolltest.init.gen.cpp
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:   [2/9] Switch.cpp
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:    E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h(54) : error C2065: 'isActive': undeclared identifier
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:   [3/9] sidescrolltestCharacter.gen.cpp
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:    E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest/sidescrolltestCharacter.h(54) : error C2065: 'isActive': undeclared identifier
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:   [4/9] Switch.gen.cpp
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:    E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h(54) : error C2065: 'isActive': undeclared identifier
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:   [5/9] sidescrolltestGameMode.cpp
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:    E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h(54) : error C2065: 'isActive': undeclared identifier
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:   [6/9] sidescrolltestCharacter.cpp
+[2019.07.30-18.40.03:794][ 89]CompilerResultsLog:    E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h(54) : error C2065: 'isActive': undeclared identifier
+[2019.07.30-18.40.03:794][ 89]LogMainFrame: MainFrame: Module compiling took 13.801 seconds
+[2019.07.30-18.40.03:794][ 89]Warning: HotReload failed, recompile failed
+[2019.07.30-18.40.23:112][206]LogSlate: Window 'Message Log' being destroyed
+[2019.07.30-18.40.23:116][206]LogSlate: Window 'Message Log' being destroyed
+[2019.07.30-18.40.24:028][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.40.24:136][326]Candidate modules for hot reload:
+[2019.07.30-18.40.24:136][326]  sidescrolltest
+[2019.07.30-18.40.24:136][326]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,3236 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.40.24:154][326]Warning: Starting HotReload took  0.0s.
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:40:40
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 7.1820783 seconds
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Building 8 actions with 8 processes...
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:   [1/8] Switch.cpp
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:   [2/8] sidescrolltestGameMode.cpp
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:   [3/8] sidescrolltestCharacter.gen.cpp
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:   [4/8] Switch.gen.cpp
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:   [5/8] sidescrolltestCharacter.cpp
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:   [6/8] UE4Editor-sidescrolltest-3236.lib
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-3236.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-3236.exp
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:   [7/8] UE4Editor-sidescrolltest-3236.dll
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-3236.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-3236.suppressed.exp
+[2019.07.30-18.40.40:916][192]CompilerResultsLog:   [8/8] sidescrolltestEditor.target
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Total time in Parallel executor: 6.12 seconds
+[2019.07.30-18.40.40:916][192]CompilerResultsLog: Total execution time: 16.67 seconds
+[2019.07.30-18.40.40:916][192]LogMainFrame: MainFrame: Module compiling took 16.783 seconds
+[2019.07.30-18.40.40:938][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.07.30-18.40.40:951][192]LogClass: Could not find existing class sidescrolltestCharacter in package /Script/sidescrolltest for HotReload, assuming new class
+[2019.07.30-18.40.40:958][192]LogHotReload: Re-instancing sidescrolltestCharacter after hot-reload.
+[2019.07.30-18.40.41:186][192]LogHotReload: Re-instancing Switch after hot-reload.
+[2019.07.30-18.40.41:245][192]LogContentBrowser: Native class hierarchy updated for 'sidescrolltest' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2019.07.30-18.40.41:248][192]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.07.30-18.40.41:289][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.07.30-18.40.41:300][192]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2736 classes and 663 folders.
+[2019.07.30-18.40.41:300][192]Display: HotReload took 17.2s.
+[2019.07.30-18.40.43:918][495]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-18.40.43:930][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.40.43:930][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-18.40.43:930][495]PIE: New page: PIE session: SideScrollerExampleMap (30 Jul 2019 20:40:43)
+[2019.07.30-18.40.43:930][495]LogPlayLevel: Creating play world package: /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.07.30-18.40.43:943][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012908s)
+[2019.07.30-18.40.43:944][495]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.07.30-18.40.43:944][495]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2019.07.30-18.40.43:944][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014154s)
+[2019.07.30-18.40.43:966][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.07.30-18.40.43:986][495]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-18.40.43:993][495]LogInit: FAudioDevice initialized.
+[2019.07.30-18.40.44:021][495]LogLoad: Game class is 'sidescrolltestGameMode'
+[2019.07.30-18.40.44:023][495]LogWorld: Bringing World /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.07.30-19.40.44
+[2019.07.30-18.40.44:023][495]LogWorld: Bringing up level for play took: 0.001438
+[2019.07.30-18.40.44:036][495]PIE: Play in editor start time for /Game/SideScrollerCPP/Maps/UEDPIE_0_SideScrollerExampleMap -0.071
+[2019.07.30-18.40.44:036][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.41.08:256][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.41.08:257][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-18.41.08:289][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-18.41.08:290][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerCPP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-18.41.08:315][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-18.41.08:318][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.07.30-18.41.08:362][384]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.07.30-18.42.39:623][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-18.42.39:697][971]Candidate modules for hot reload:
+[2019.07.30-18.42.39:697][971]  sidescrolltest
+[2019.07.30-18.42.39:697][971]Launching UnrealBuildTool... [E:/GAMES/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=sidescrolltest,8040 Win64 Development -TargetType=Editor -Project="E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject" "E:/DOCUMENTS/Unreal Projects/sidescrolltest/sidescrolltest.uproject"  -IgnoreJunk]
+[2019.07.30-18.42.39:721][971]Warning: Starting HotReload took  0.0s.
+[2019.07.30-18.42.55:692][875]CompilerResultsLog: New page: Compilation - 30 Jul 2019 20:42:55
+[2019.07.30-18.42.55:692][875]CompilerResultsLog: Creating makefile for sidescrolltestEditor (ini files are newer than makefile)
+[2019.07.30-18.42.55:692][875]CompilerResultsLog: Parsing headers for sidescrolltestEditor
+[2019.07.30-18.42.55:692][875]CompilerResultsLog:   Running UnrealHeaderTool "E:\DOCUMENTS\Unreal Projects\sidescrolltest\sidescrolltest.uproject" "E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\sidescrolltestEditor\Development\sidescrolltestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.30-18.42.55:692][875]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.h!
+[2019.07.30-18.42.55:692][875]CompilerResultsLog: Reflection code generated for sidescrolltestEditor in 7.076445 seconds
+[2019.07.30-18.42.55:693][875]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.42.55:693][875]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.42.55:693][875]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.42.55:693][875]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.42.55:693][875]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.42.55:693][875]CompilerResultsLog: Attempting to retry...
+[2019.07.30-18.42.55:693][875]CompilerResultsLog: Failed to delete file 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb'
+[2019.07.30-18.42.55:693][875]CompilerResultsLog:     Exception: Access to the path 'E:\DOCUMENTS\Unreal Projects\sidescrolltest\Binaries\Win64\UE4Editor-sidescrolltest.pdb' is denied.
+[2019.07.30-18.42.55:693][875]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.07.30-18.42.55:693][875]CompilerResultsLog: Using Visual Studio 2019 14.21.27702 toolchain (E:\PROGRAMS\Visual Studio2019\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.30-18.42.55:693][875]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.07.30-18.42.55:693][875]CompilerResultsLog:   [1/4] sidescrolltestCharacter.cpp
+[2019.07.30-18.42.55:693][875]CompilerResultsLog:   [2/4] UE4Editor-sidescrolltest-8040.lib
+[2019.07.30-18.42.55:693][875]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8040.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8040.exp
+[2019.07.30-18.42.55:693][875]CompilerResultsLog:   [3/4] UE4Editor-sidescrolltest-8040.dll
+[2019.07.30-18.42.55:693][875]CompilerResultsLog:      Creating library E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8040.suppressed.lib and object E:\DOCUMENTS\Unreal Projects\sidescrolltest\Intermediate\Build\Win64\UE4Editor\Development\sidescrolltest\UE4Editor-sidescrolltest-8040.suppressed.exp
+[2019.07.30-18.42.55:693][875]CompilerResultsLog:   [4/4] sidescrolltestEditor.target
+[2019.07.30-18.42.55:693][875]CompilerResultsLog: Total time in Parallel executor: 4.52 seconds
+[2019.07.30-18.42.55:693][875]CompilerResultsLog: Total execution time: 15.85 seconds
+[2019.07.30-18.42.55:693][875]LogMainFrame: MainFrame: Module compiling took 15.998 seconds
+[2019.07.30-18.42.55:716][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.07.30-18.42.55:735][875]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.07.30-18.43.06:221][875]LogStats: FPlatformStackWalk::StackWalkAndDump - 10.487 s
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: 
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:E:\GAMES\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1098]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: Unable to bind delegate to 'OnOverlapStart' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: Stack: 
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9dbcda271 UE4Editor-sidescrolltest-8040.dll!DispatchCheckVerify<bool,<lambda_3477e896049a93e7306dbcdb18476827> >() [E:\GAMES\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:161]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9dbcd3289 UE4Editor-sidescrolltest-8040.dll!AsidescrolltestCharacter::AsidescrolltestCharacter() [E:\DOCUMENTS\Unreal Projects\sidescrolltest\Source\sidescrolltest\sidescrolltestCharacter.cpp:51]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9e2b54561 UE4Editor-HotReload.dll!FHotReloadClassReinstancer::RecreateCDOAndSetupOldClassReinstancing() [d:\build\++ue4\sync\engine\source\developer\hotreload\private\hotreloadclassreinstancer.cpp:247]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9e2b45e69 UE4Editor-HotReload.dll!FHotReloadClassReinstancer::FHotReloadClassReinstancer() [d:\build\++ue4\sync\engine\source\developer\hotreload\private\hotreloadclassreinstancer.cpp:322]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9e2b4cebd UE4Editor-HotReload.dll!FHotReloadClassReinstancer::Create() [d:\build\++ue4\sync\engine\source\developer\hotreload\private\hotreloadclassreinstancer.h:120]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9e2b56c70 UE4Editor-HotReload.dll!FHotReloadModule::ReinstanceClass() [d:\build\++ue4\sync\engine\source\developer\hotreload\private\hotreload.cpp:1271]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9e2b56f04 UE4Editor-HotReload.dll!FHotReloadModule::ReinstanceClasses() [d:\build\++ue4\sync\engine\source\developer\hotreload\private\hotreload.cpp:1261]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9e2b4fcf6 UE4Editor-HotReload.dll!TBaseRawMethodDelegateInstance<0,FHotReloadModule,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:518]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ffa0178e23b UE4Editor-CoreUObject.dll!TBaseMulticastDelegate<void>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:977]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ffa01a500d7 UE4Editor-CoreUObject.dll!UClassReplaceHotReloadClasses() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\uobjectbase.cpp:748]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ffa01a3edf6 UE4Editor-CoreUObject.dll!ProcessNewlyLoadedUObjects() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\uobjectbase.cpp:874]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ffa0181a727 UE4Editor-CoreUObject.dll!TBaseStaticDelegateInstance<void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:813]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ffa16aa4a2b UE4Editor-Core.dll!TBaseMulticastDelegate<void>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:977]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ffa16c75cb5 UE4Editor-Core.dll!FModuleManager::LoadModuleWithFailureReason() [d:\build\++ue4\sync\engine\source\runtime\core\private\modules\modulemanager.cpp:530]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ffa16c75053 UE4Editor-Core.dll!FModuleManager::LoadModule() [d:\build\++ue4\sync\engine\source\runtime\core\private\modules\modulemanager.cpp:367]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9e2b4df69 UE4Editor-HotReload.dll!FHotReloadModule::DoHotReloadInternal() [d:\build\++ue4\sync\engine\source\developer\hotreload\private\hotreload.cpp:803]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9e2b4be47 UE4Editor-HotReload.dll!UE4Function_Private::TFunctionRefCaller<<lambda_9c48366a887b61ded2fa445a677e9fc1>,void __cdecl(TMap<FName,FString,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<FName,FString,0> > const &,bool,enum ECompilationResult::Type)>::Call() [d:\build\++ue4\sync\engine\source\runtime\core\public\templates\function.h:487]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9e2b4c6bf UE4Editor-HotReload.dll!FHotReloadModule::CheckForFinishedModuleDLLCompile() [d:\build\++ue4\sync\engine\source\developer\hotreload\private\hotreload.cpp:1873]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff9e2b5c5a5 UE4Editor-HotReload.dll!FHotReloadModule::Tick() [d:\build\++ue4\sync\engine\source\developer\hotreload\private\hotreload.cpp:1432]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ffa16a408ba UE4Editor-Core.dll!FTicker::Tick() [d:\build\++ue4\sync\engine\source\runtime\core\private\containers\ticker.cpp:95]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fb92d2 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4167]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fc554c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:168]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fc55ca UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fd316c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ff6a0fd5b8e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ffa54fe4034 KERNEL32.DLL!UnknownFunction []
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: [Callstack] 0x00007ffa560d3691 ntdll.dll!UnknownFunction []
+[2019.07.30-18.43.06:221][875]LogOutputDevice: Error: 
+[2019.07.30-18.43.06:228][875]LogStats:                SubmitErrorReport -  0.000 s

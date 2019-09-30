@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\sidescrolltest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{40658393-8D53-4F83-AC72-F86E158B4745}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\sidescrolltest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\sidescrolltestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A002DB8A-E4FD-4CEF-B552-FE606AA50CC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\sidescrolltest">
+      <UniqueIdentifier>{7F75736A-5DF9-4BB7-A1C9-8F14E9F348C3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\sidescrolltest\DeathFloor.cpp">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescrolltest\DeathFloor.h">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sidescrolltest\MovingPlatform.cpp">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescrolltest\MovingPlatform.h">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sidescrolltest\MyActor.cpp">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescrolltest\MyActor.h">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\sidescrolltest\sidescrolltest.Build.cs">
+      <Filter>Source\sidescrolltest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\sidescrolltest\sidescrolltest.cpp">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescrolltest\sidescrolltest.h">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sidescrolltest\sidescrolltestCharacter.cpp">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescrolltest\sidescrolltestCharacter.h">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sidescrolltest\sidescrolltestGameMode.cpp">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescrolltest\sidescrolltestGameMode.h">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sidescrolltest\Switch.cpp">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescrolltest\Switch.h">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sidescrolltest\TestItem.cpp">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescrolltest\TestItem.h">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sidescrolltest\VerticalMovingPlatform.cpp">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescrolltest\VerticalMovingPlatform.h">
+      <Filter>Source\sidescrolltest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
